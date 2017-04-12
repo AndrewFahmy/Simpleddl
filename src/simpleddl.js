@@ -1,7 +1,7 @@
 /*
     Created by:     Andrew M Fahmy
     Email:              andrew_fahmy@outlook.com
-    Version:            2.0.0
+    Version:            2.0.1
 */
 
 (function ($) {
@@ -122,9 +122,9 @@
             changeSelection(selectedItem, wrapper, options);
         });
 
-        $(self).change(function () {
-            let ddlValue = $(self).val();
-            let menuItem = $(self).parent().find(`.ddl-menu-item[data-item-value="${ddlValue}"]`);
+        selectItem.change(function () {
+            let ddlValue = selectItem.val();
+            let menuItem = selectItem.parent().find(`.ddl-menu-item[data-item-value="${ddlValue}"]`);
             changeSelection(menuItem, wrapper, options);
         });
 
