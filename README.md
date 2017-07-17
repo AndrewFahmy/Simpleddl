@@ -1,3 +1,6 @@
+[![OpenHub](https://www.openhub.net/p/Simpleddl/widgets/project_thin_badge?format=gif)](https://www.openhub.net/p/Simpleddl)
+
+
 # Simpleddl
 A simple JQuery based dropdown list
 
