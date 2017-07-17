@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/simpleddl.svg)](https://badge.fury.io/js/simpleddl)
+[![Build Status](https://travis-ci.org/AndrewFahmy/Simpleddl.svg?branch=master)](https://travis-ci.org/AndrewFahmy/Simpleddl)
 [![OpenHub](https://www.openhub.net/p/Simpleddl/widgets/project_thin_badge?format=gif)](https://www.openhub.net/p/Simpleddl)
 
 
