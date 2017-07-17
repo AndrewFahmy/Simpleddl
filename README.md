@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/simpleddl.svg)](https://badge.fury.io/js/simpleddl)
 [![OpenHub](https://www.openhub.net/p/Simpleddl/widgets/project_thin_badge?format=gif)](https://www.openhub.net/p/Simpleddl)
 
 
